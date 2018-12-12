@@ -15,5 +15,14 @@ Here is the simple web Gui Formed With MySQL and Php We are also use JavaScript 
   
 using this package you can add Book, add Candidate, Collect Fine, Issue Book, Return Book Etc.
 
+You need Following things to Run This System:
+
+-XAMP/MAMP or WAMP Server
+-Some php & MySQL Knowledge 
+-Brain(Highly Recomanded)
+
+unzip file and import database file which is located at DB Folder.
+after sucessfully Importation just enter path on localhost!!
+
 For any information Kindly Contcat me
 -Viral Parmar
