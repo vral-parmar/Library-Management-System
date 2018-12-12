@@ -1,0 +1,66 @@
+#search-input
+{
+	float:left;
+	width:90%;
+	height:100%;
+	border-radius:20px 0px 0px 20px;
+	border-bottom:none;
+}
+
+#search-button
+{
+	float:right;
+	width:10%;
+	border-radius:0px 20px 20px 0px;
+	background-color:white;
+	height:100%;
+}
+
+#search-button, #search-input
+{
+	outline:none;
+}
+
+.head-left
+{
+	float:left;
+	width:60%;
+}
+
+
+.head-right:focus
+{
+	box-shadow:true;
+}
+
+.head-right
+{
+	width:40%;
+	height:6%;
+	float:right;
+	border-radius:20px;
+}
+
+.cont-left
+{
+	float:left;
+	width:20%;
+	
+}
+.cont-right
+{
+	float:right;
+	width:75%;
+	margin-right:5%;
+}
+
+.open-candidate, .open-book, .open-issue, .open-fine, .open-return
+{
+	border-radius:30px;
+}
+
+#data
+{
+	float:left;
+	width:75%;
+}
