@@ -2,9 +2,9 @@
 hello There,
 
 Author,
-Parmar Viral 
-Shah Prince 
-Soni Akshat
+Parmar Viral,
+Shah Prince, 
+Soni Akshat,
 Patel Anand
 
 Content,
